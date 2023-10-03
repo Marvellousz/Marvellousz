@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Murali</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A Computer Science Sophomore and Tech Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavmurali-coder&label=Profile%20views&color=0e75b6&style=flat" alt="pranavmurali-coder" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavmurali-coder" alt="pranavmurali-coder" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pranav_murali_" target="blank"><img src="https://img.shields.io/twitter/follow/pranav_murali_?logo=twitter&style=for-the-badge" alt="pranav_murali_" /></a> </p>
 
