@@ -4,12 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavmurali-coder&label=Profile%20views&color=0e75b6&style=flat" alt="pranavmurali-coder" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pranav_murali_" target="blank"><img src="https://img.shields.io/twitter/follow/pranav_murali_?logo=twitter&style=for-the-badge" alt="pranav_murali_" /></a> </p>
-<p align="left"> <a href="https://linkedin.com/in/https://www.linkedin.com/in/pranav-murali-bb9b25266/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav murali" height="30" width="40" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pranav_murali_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranav_murali_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pranav-murali-bb9b25266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranav-murali-bb9b25266/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/pranav-murali-bb9b25266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranav-murali-bb9b25266/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20017486/x-marvellous-x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20017486/x-marvellous-x" height="30" width="40" /></a>
 </p>
 
