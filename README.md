@@ -1,5 +1,7 @@
 # About Me:
-I'm Pranav Murali, a CS Sophomore from Kerala, India.<br>I'm a Web Developer and Tech Enthusiast.<br>I'm currently learning Fullstack Web Development.
+**I'm Pranav Murali, a CS Sophomore from Kerala, India.<br>**
+**I'm a Web Developer and Tech Enthusiast.<br>**
+**I'm currently learning Fullstack Web Development.**
 
 
 ## 🌐 Socials:
