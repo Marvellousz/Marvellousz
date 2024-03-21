@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi👋, I'm Pranav Murali, a Computer Science Sophomore at VIT, Vellore.<br>I'm a Tech enthusiast and Web dev.<br>I'm currently learning fullstack development.
+# About Me:
+I'm Pranav Murali, a CS Sophomore from Kerala, India.<br>I'm a Web Developer and Tech Enthusiast.<br>I'm currently learning Fullstack Web Development.
 
 
 ## 🌐 Socials:
