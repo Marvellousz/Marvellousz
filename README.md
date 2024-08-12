@@ -1,7 +1,17 @@
-# About Me:
-**I'm Pranav Murali, a CS Sophomore from Kerala, India.<br>**
-**I'm a Web Developer and Tech Enthusiast.<br>**
-**I'm currently learning Fullstack Web Development.**
+
+<h2 align="color:white">Hey there!</h2>
+
+
+```
+Marvellousz@github
+-------------------------
+- 👀 I am Pranav
+- 🦾 Prev. Technical Executive @ E-CELL, VIT
+- 🚀 Intern @ Moon Finance
+- 💻 I’m a full stack developer
+- 🎓 I’m pursuing Btech in Computer Science
+- 🌱 ML/AI Enthusiast
+```
 
 
 ## 🌐 Socials:
