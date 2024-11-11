@@ -97,7 +97,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
     </a>
     <a href="https://vercel.com" target="_blank" rel="noreferrer">
-        <img src="https://commons.wikimedia.org/wiki/File:Vercel_logo_black.svg" alt="vercel" width="40" height="40" style="filter: invert(1);"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Vercel_logo_black.svg" alt="vercel" width="40" height="40" style="filter: invert(1);"/>
     </a>
     <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
@@ -106,7 +106,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
     </a> 
     <a href="https://commons.wikimedia.org/wiki/File:WebStorm_Icon.svg" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/jetbrains_webstorm/jetbrains_webstorm-icon.svg" alt="webstorm" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="webstorm" width="40" height="40"/> 
     </a>
 </p>
 
