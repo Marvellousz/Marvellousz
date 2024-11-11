@@ -64,10 +64,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+        <img src="https://en.m.wikipedia.org/wiki/File:Django_logo.svg" alt="django" width="40" height="40"/> 
     </a> 
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flask_logo.svg/1200px-Flask_logo.svg.png" alt="flask" width="40" height="40"/> 
+        <img src="https://en.m.wikipedia.org/wiki/File:Flask_logo.svg" alt="flask" width="40" height="40"/> 
     </a> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -97,7 +97,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
     </a>
     <a href="https://vercel.com" target="_blank" rel="noreferrer">
-        <img src="https://vercel.com/_next/image?url=%2Fstatic%2Fimages%2Fvercel-logo.svg&w=256&q=75" alt="vercel" width="40" height="40" style="filter: invert(1);"/>
+        <img src="https://commons.wikimedia.org/wiki/File:Vercel_logo_black.svg" alt="vercel" width="40" height="40" style="filter: invert(1);"/>
     </a>
     <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
@@ -105,7 +105,7 @@
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
     </a> 
-    <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> 
+    <a href="https://commons.wikimedia.org/wiki/File:WebStorm_Icon.svg" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/jetbrains_webstorm/jetbrains_webstorm-icon.svg" alt="webstorm" width="40" height="40"/> 
     </a>
 </p>
