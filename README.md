@@ -39,11 +39,11 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a> 
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="filter: invert(1);"/>
     </a> 
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="filter:      invert(1);"/>
     </a> 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
@@ -96,8 +96,8 @@
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
     </a>
-    <a href="https://vercel.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" alt="vercel" width="40" height="40"/>
+    <a href="https://vercel.com" target="_blank" rel="noreferrer">
+        <img src="https://vercel.com/_next/image?url=%2Fstatic%2Fimages%2Fvercel-logo.svg&w=256&q=75" alt="vercel" width="40" height="40" style="filter: invert(1);"/>
     </a>
     <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
@@ -109,6 +109,11 @@
         <img src="https://www.vectorlogo.zone/logos/jetbrains_webstorm/jetbrains_webstorm-icon.svg" alt="webstorm" width="40" height="40"/> 
     </a>
 </p>
+<style>
+    body {
+        background-color: black;
+    }
+</style>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marvellousz&" alt="marvellousz" /></p>
