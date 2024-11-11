@@ -55,7 +55,7 @@
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
     </a> 
     <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+        <img src="https://en.m.wikipedia.org/wiki/Go_(programming_language)#/media/File%3AGo_Logo_Blue.svg" alt="go" width="40" height="40"/> 
     </a> 
     <a href="https://gofiber.io" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fiber/fiber-original.svg" alt="fiber" width="40" height="40"/> 
@@ -64,10 +64,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://en.m.wikipedia.org/wiki/File:Django_logo.svg" alt="django" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="django" width="40" height="40"/> 
     </a> 
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://en.m.wikipedia.org/wiki/File:Flask_logo.svg" alt="flask" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="40" height="40"/> 
     </a> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
