@@ -55,7 +55,7 @@
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
     </a> 
     <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-        <img src="https://en.m.wikipedia.org/wiki/Go_(programming_language)#/media/File%3AGo_Logo_Blue.svg" alt="go" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="go" width="40" height="40"/> 
     </a> 
     <a href="https://gofiber.io" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fiber/fiber-original.svg" alt="fiber" width="40" height="40"/> 
