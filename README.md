@@ -108,12 +108,13 @@
     <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/jetbrains_webstorm/jetbrains_webstorm-icon.svg" alt="webstorm" width="40" height="40"/> 
     </a>
-</p>
-<style>
+ <style>
     body {
         background-color: black;
     }
 </style>
+</p>
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marvellousz&" alt="marvellousz" /></p>
