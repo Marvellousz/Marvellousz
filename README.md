@@ -40,7 +40,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a> 
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://res.cloudinary.com/dhrvr4sey/image/upload/v1731393555/My%20Stuff/nextjs.png" alt="nextjs" width="40" height="40" style="filter: invert(1);"/>
+        <img src="https://res.cloudinary.com/dhrvr4sey/image/upload/v1731394104/My%20Stuff/nextjs.jpg" alt="nextjs" width="40" height="40" style="filter: invert(1);"/>
     </a> 
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://res.cloudinary.com/dhrvr4sey/image/upload/v1731393689/My%20Stuff/expressjs.png" alt="express" width="40" height="40" style="filter:      invert(1);"/>
@@ -64,10 +64,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="django" width="40" height="40"/> 
+        <img src="https://res.cloudinary.com/dhrvr4sey/image/upload/v1731393848/My%20Stuff/django.png" alt="django" width="40" height="40"/> 
     </a> 
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="40" height="40"/> 
+        <img src="https://res.cloudinary.com/dhrvr4sey/image/upload/v1731393967/My%20Stuff/flask.jpg" alt="flask" width="40" height="40"/> 
     </a> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -97,7 +97,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
     </a>
     <a href="https://vercel.com" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Vercel_logo_black.svg" alt="vercel" width="40" height="40" style="filter: invert(1);"/>
+        <img src="https://res.cloudinary.com/dhrvr4sey/image/upload/v1731394027/My%20Stuff/vercel.jpg" alt="vercel" width="40" height="40" style="filter: invert(1);"/>
     </a>
     <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
