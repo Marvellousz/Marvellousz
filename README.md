@@ -91,7 +91,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
     </a> 
     <a href="https://posit.co/products/open-source/rstudio/" target="_blank" rel="noreferrer">
-       <img src="https://cdn.worldvectorlogo.com/logos/rstudio.svg" alt="rstudio" width="40" height="40"/>
+       <img src="https://res.cloudinary.com/dhrvr4sey/image/upload/v1731395063/My%20Stuff/rstudio.png" alt="rstudio" width="40" height="40"/>
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
@@ -124,7 +124,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="webstorm" width="40" height="40"/> 
     </a>
     <a href="https://obsidian.md/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/obsidian-1.svg" alt="obsidian" width="40" height="40"/>
+        <img src="https://res.cloudinary.com/dhrvr4sey/image/upload/v1731394982/My%20Stuff/obsidian.png" alt="obsidian" width="40" height="40"/>
     </a>
 </p>
 
