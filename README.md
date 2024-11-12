@@ -123,8 +123,14 @@
     <a href="https://commons.wikimedia.org/wiki/File:WebStorm_Icon.svg" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="webstorm" width="40" height="40"/> 
     </a>
+    <a href="https://www.codeblocks.org/" target="_blank" rel="noreferrer">
+       <img src="https://res.cloudinary.com/dhrvr4sey/image/upload/v1731395423/My%20Stuff/codeblocks.jpg" alt="codeblocks" width="40" height="40"/>
+    </a>
     <a href="https://obsidian.md/" target="_blank" rel="noreferrer">
         <img src="https://res.cloudinary.com/dhrvr4sey/image/upload/v1731394982/My%20Stuff/obsidian.png" alt="obsidian" width="40" height="40"/>
+    </a>
+    <a href="https://discord.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="discord" width="40" height="40"/>
     </a>
 </p>
 
