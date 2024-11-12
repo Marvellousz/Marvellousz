@@ -40,10 +40,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a> 
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="filter: invert(1);"/>
+        <img src="https://res.cloudinary.com/dhrvr4sey/image/upload/v1731393555/My%20Stuff/nextjs.png" alt="nextjs" width="40" height="40" style="filter: invert(1);"/>
     </a> 
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="filter:      invert(1);"/>
+        <img src="https://res.cloudinary.com/dhrvr4sey/image/upload/v1731393689/My%20Stuff/expressjs.png" alt="express" width="40" height="40" style="filter:      invert(1);"/>
     </a> 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
@@ -58,7 +58,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="go" width="40" height="40"/> 
     </a> 
     <a href="https://gofiber.io" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fiber/fiber-original.svg" alt="fiber" width="40" height="40"/> 
+        <img src="https://res.cloudinary.com/dhrvr4sey/image/upload/v1731393398/My%20Stuff/gofiber.png" alt="fiber" width="40" height="40"/> 
     </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
