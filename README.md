@@ -12,7 +12,7 @@
 -----
 
 
-- 🔭 I’m currently working on [moonfinance](https://valleyai.io/)
+- 🔭 I’m currently working on [valley-ai](https://valleyai.io/)
 
 - 📫 How to reach me **pranavmurali024@gmail.com**
 
