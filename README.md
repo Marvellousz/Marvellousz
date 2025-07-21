@@ -12,9 +12,9 @@
 -----
 
 
-- I’m currently working on [valley-ai](https://valleyai.io/)
+- I’m currently working at [valley-ai](https://valleyai.io/)
 
-- How to reach me **pranavmurali024@gmail.com**
+- How to reach me? **pranavmurali024@gmail.com**
 
 - I love programming and I find it very fulfulling
 
