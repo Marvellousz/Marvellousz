@@ -12,11 +12,11 @@
 -----
 
 
-- 🔭 I’m currently working on [valley-ai](https://valleyai.io/)
+- I’m currently working on [valley-ai](https://valleyai.io/)
 
-- 📫 How to reach me **pranavmurali024@gmail.com**
+- How to reach me **pranavmurali024@gmail.com**
 
-- ⚡ **I love programming and I find it very fulfulling 🖖**
+- I love programming and I find it very fulfulling
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
