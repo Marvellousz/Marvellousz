@@ -16,7 +16,7 @@
 
 - How to reach me? **pranavmurali024@gmail.com**
 
-- I love programming and I find it very fulfulling
+- I love programming and I find it very fulfilling
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
