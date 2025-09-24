@@ -16,7 +16,7 @@
 </picture>
 
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=currently+swe+intern+%40+loopless+ %2C+fullstack+%40+valley-ai" />
-   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=000000&repeat=false&width=802&height=25&lines=currently+swe+intern+%40+loopless+ %2C+fullstack+%40+valley-ai" />
-   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=currently+engineer+%40+loopless+ %2C+fullstack+%40+valley-ai" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=currently+swe+intern+%40+loopless" />
+   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=000000&repeat=false&width=802&height=25&lines=currently+swe+intern+%40+loopless" />
+   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=currently+engineer+%40+loopless" />
 </picture>
