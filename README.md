@@ -1,7 +1,7 @@
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=35&duration=2000&pause=998&color=F7F7F7&repeat=false&width=300&lines=hey,+i'm+pranav" />
    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=35&duration=2000&pause=998&color=000000&repeat=false&width=300&lines=hey,+i'm+pranav" />
-   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=35&duration=2000&pause=998&color=F7F7F7&repeat=false&width=300&lines=hey,+i'm+pranav" />
+   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=35&duration=2000&pause=998&color=F7F7F7&repeat=false&width=300&lines=hey+im+pranav" />
 </picture>
 
 <br/>
