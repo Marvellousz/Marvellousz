@@ -28,7 +28,25 @@
 </picture>
 
 <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=built+personal+projects+that+include+a+wide+range+of+skillset+like+web%2C+ai%2C+linux+and+windows/>
+   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=000000&repeat=false&width=802&height=25&lines=built+personal+projects+that+include+a+wide+range+of+skillset+like+web%2C+ai%2C+linux+and+windows" />
+   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=built+personal+projects+that+include+a+wide+range+of+skillset+like+web%2C+ai%2C+linux+and+windows" />
+</picture>
+
+<picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=i+build+webapps%2C+ai+systems%2C+software+platforms+and+tools" />
    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=000000&repeat=false&width=802&height=25&lines=i+build+webapps%2C+ai+systems%2C+software+platforms+and+tools" />
    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=i+build+webapps%2C+ai+systems%2C+software+platforms+and+tools" />
+</picture>
+
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=tech+stack%3A+next.js%2C+node.js%2C+python%2C+postgres%2C+mongo+and+aws" />
+   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=000000&repeat=false&width=802&height=25&lines=tech+stack%3A+next.js%2C+node.js%2C+python%2C+postgres%2C+mongo+and+aws" />
+   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=tech+stack%3A+next.js%2C+node.js%2C+python%2C+postgres%2C+mongo+and+aws" />
+</picture>
+
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=open+to+fulltime+roles" />
+   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=000000&repeat=false&width=802&height=25&lines=open+to+fulltime+roles" />
+   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Gaegu&size=18&duration=1000&pause=998&color=FFFFFF&repeat=false&width=802&height=25&lines=open+to+fulltime+roles" />
 </picture>
